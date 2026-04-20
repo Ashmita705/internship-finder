@@ -1,14 +1,14 @@
-# internship-finder
-A Python-based tool that helps users find relevant internship opportunities based on keywords and preferences.
+# Internship Finder 
+A Python tool that fetches real-time job listings from an API and filters them based on user-defined keywords.
 
 ## Features
-- Search internships using keywords
-- Simple filtering based on user input
-- Beginner-friendly implementation
-- CLI-based interaction
+- Fetches live job data from an external API
+- Filters jobs based on keyword input
+- Displays job title, company, location, and application link
+- Shows top 5 matching results
 
 ## Tech Used
-- Python
+- Python (requests)
 
 ## Run
 ```bash
